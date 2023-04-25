@@ -1,6 +1,10 @@
+import { Task1 } from "./components/Task1";
+
 function App() {
   return (
-    <div className="App"></div>
+    <div className="App">
+      <Task1 />
+    </div>
   );
 }
 
